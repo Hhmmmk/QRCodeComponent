@@ -58,3 +58,14 @@ body{
   font-size: 16px;
   font-weight: 500;
 }
+
+.attribution{
+  position: fixed;
+  bottom: 1%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+  -moz-transform: translate(-50%, 0);
+  -ms-transform: translate(-50%, 0);
+  -o-transform: translate(-50%, 0);
+}
