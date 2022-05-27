@@ -14,8 +14,8 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: white;
-  width: 350px;
-  height: 528px;
+  width: 322px;
+  height: 500px;
   border-radius: 16px;
   -webkit-border-radius: 16px;
   -moz-border-radius: 16px;
@@ -28,8 +28,8 @@ body{
 }
 
 .qr{
-  width: 318px;
-  height: 318px;
+  width: 290px;
+  height: 290px;
   background-color: #2a9df4;
   margin: 16px;
   border-radius: 8px;
@@ -43,7 +43,7 @@ body{
   margin: 32px;
   margin-top: 0px;
   margin-bottom: 16px;
-  font-size: 24px;
+  font-size: 22px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
   color: hsl(218, 44%, 22%);
@@ -55,11 +55,12 @@ body{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: lightslategray;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
 }
 
 .attribution{
+  font-size: 11px;
   position: fixed;
   bottom: 1%;
   left: 50%;
